@@ -1,7 +1,7 @@
 #  Project Report
 
 **Course:** Machine Learning Task  
-**Date:** June 2026
+**Date:** June 2026  
 **Student:** La Torre Romero, Jose Luis
 
 ---

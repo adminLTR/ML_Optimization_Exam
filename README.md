@@ -115,7 +115,7 @@ cnt = casual + registered
 ```text
 
 main.ipynb                      # Main notebook (full pipeline)
-REPORT.md                       # This report
+README.md                       # This report
 REPORT.pdf                      # This report in PDF format
 requirements.txt
 data/
